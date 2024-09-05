@@ -1,0 +1,5 @@
+name: 自定义规则
+desc: 增加自定义规则
+ 
+rules:
+  - DOMAIN-SUFFIX,piggo,DIRECT
